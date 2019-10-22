@@ -26,7 +26,7 @@ Team Members                : Victor Lee Hao Chuan, Ng Jun Wei, See Qiu Hui
 
 **Use case diagram**
 
- ![use case](https://drive.google.com/file/d/19ltN_n6fetJDkAT7dALdAdPHHzpvbTqf/view?usp=sharing)
+ ![use case](D:/4th_year/software engineering/assignment/use_case.png)
 
 **Object-Oriented Programming (OOP)**
 
@@ -52,7 +52,7 @@ Number of Stock On Hand
 | Warehouse 002 | 50 |
 | Warehouse 003 | 10 |
 
- ![database](https://drive.google.com/file/d/16HV7BgocQ8FLFn2NN-p9t_Ok6vYbWBcp/view?usp=sharing)
+ ![database](D:/4th_year/software engineering/assignment/database.png)
 
 
 
