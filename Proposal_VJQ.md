@@ -18,21 +18,21 @@ Team Members                : Victor Lee Hao Chuan, Ng Jun Wei, See Qiu Hui
 
 **Project Introduction**
 
-    This project is to develop a warehouse database management system for a logistic manager to keep track of stock on hand.
+  This project is to develop a warehouse database management system for a logistic manager to keep track of stock on hand.
 
-    The database consists of 3 databases which are interrelated. Among them are &quot;Number of Stock On Hand&quot;, &quot;Types of Products&quot; and &quot;Information of Warehouses&quot;. The database will be implemented on MySQL platform using Raspberry Pi.
+  The database consists of 3 databases which are interrelated. Among them are &quot;Number of Stock On Hand&quot;, &quot;Types of Products&quot; and &quot;Information of Warehouses&quot;. The database will be implemented on MySQL platform using Raspberry Pi.
 
-    Besides, a graphical user interface will be built to ease the usage of this database. React Native library in JavaScript will be used to create the interface.
+  Besides, a graphical user interface will be built to ease the usage of this database. React Native library in JavaScript will be used to create the interface.
 
 **Use case diagram**
 
- ![use case](https://drive.google.com/drive/folders/16y1092I3BcMLaOp6FH5LZ4Pf69BZBu3w)
+ ![use case](https://drive.google.com/file/d/19ltN_n6fetJDkAT7dALdAdPHHzpvbTqf/view?usp=sharing)
 
 **Object-Oriented Programming (OOP)**
 
-    Object-oriented programming (OOP) is a type of computer programming in which programmers define the data type of a data structure and also the types of operations that can be applied to the data structure. The data structure becomes an object that includes both data and functions and programmers can create relationships between one object and another.
+  Object-oriented programming (OOP) is a type of computer programming in which programmers define the data type of a data structure and also the types of operations that can be applied to the data structure. The data structure becomes an object that includes both data and functions and programmers can create relationships between one object and another.
 
-    Object-oriented programming is implemented in this project through the creation of user interface on mobile phone where user can check on the stocks on hand at the warehouse through the usage of React Native in JavaScript. This is due to the usage of class in the process of creating the mobile phone user interface. Class components are used as container components to handle state management and wrap child components.
+  Object-oriented programming is implemented in this project through the creation of user interface on mobile phone where user can check on the stocks on hand at the warehouse through the usage of React Native in JavaScript. This is due to the usage of class in the process of creating the mobile phone user interface. Class components are used as container components to handle state management and wrap child components.
 
 **Database**
 
@@ -52,7 +52,7 @@ Number of Stock On Hand
 | Warehouse 002 | 50 |
 | Warehouse 003 | 10 |
 
- ![database](https://drive.google.com/drive/folders/16y1092I3BcMLaOp6FH5LZ4Pf69BZBu3w)
+ ![database](https://drive.google.com/file/d/16HV7BgocQ8FLFn2NN-p9t_Ok6vYbWBcp/view?usp=sharing)
 
 
 
