@@ -1,4 +1,4 @@
   # Class Diagram for Warehouse Management System
   
-   ![ClassDiagram](https://user-images.githubusercontent.com/55496892/69157962-a9920700-0b20-11ea-86c3-628cd4c96ee8.png)
+    ![ClassDiagram](https://user-images.githubusercontent.com/55496892/69158451-6c7a4480-0b21-11ea-95be-d38070ba8f38.PNG)
 
