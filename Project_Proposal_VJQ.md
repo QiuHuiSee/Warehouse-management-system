@@ -19,7 +19,7 @@ Team Members                : Victor Lee Hao Chuan, Ng Jun Wei, See Qiu Hui
 
 **Use case diagram**
 
-![image](https://user-images.githubusercontent.com/55492290/71544874-32714d80-29bf-11ea-9c65-809e3146021a.png)
+![image](https://user-images.githubusercontent.com/55492290/71545032-34d4a700-29c1-11ea-85a4-76d02053620a.png)
 
 **Object-Oriented Programming (OOP)**
 
@@ -44,7 +44,7 @@ Types of Products
 | 11998795 | Sweater | Uniqlo | 175 | AZ Manufacturer |
 | 11795562 | Phone | Samsung | 2999 | QH Manufacturer |
 
-![image](https://user-images.githubusercontent.com/55492290/71544996-c55eb780-29c0-11ea-861d-e4e5e4fe63d6.png)
+![image](https://user-images.githubusercontent.com/55492290/71545039-47e77700-29c1-11ea-8271-d59b33729822.png)
 
 
 **Database 2:**
