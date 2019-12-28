@@ -52,7 +52,7 @@ Types of Products
 Product information
 
 | **Time** | **Product1** | **Quantity1** | **Product2** | **Quantity2** | **Product3** | **Quantity3** |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | 2019-12-06T03:14:26.058771Z | 1 | 210 | 2 | 2222 | 3 | 887 |
 
 PS: Data above is for illustration purpose.
