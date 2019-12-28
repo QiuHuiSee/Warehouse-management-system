@@ -1,15 +1,7 @@
-##
-
-##
 
 # Project Proposal
 
-
-
 ## Warehouse Management System
-
-
-
 
 
 Team Name                   : VJQ
@@ -20,7 +12,7 @@ Team Members                : Victor Lee Hao Chuan, Ng Jun Wei, See Qiu Hui
 
   This project is to develop a warehouse database management system for a logistic manager to keep track of stock on hand. 
   
-	The database consists of 2 databases which are interrelated. Among them are “Types of Products” and “Product information”. The database will be implemented on Django platform using Raspberry Pi.
+  The database consists of 2 databases which are interrelated. Among them are “Types of Products” and “Product information”. The database will be implemented on Django platform using Raspberry Pi.
 	
   Besides, a graphical user interface will be built to ease the usage of this database. Android Studio will be used to create the interface and the programming language used in Android Studio is Java. 
 
@@ -51,6 +43,7 @@ Types of Products
 | 11885512 | Handbag | LV | 200 | YH Manufacturer |
 | 11998795 | Sweater | Uniqlo | 175 | AZ Manufacturer |
 | 11795562 | Phone | Samsung | 2999 | QH Manufacturer |
+
 ![image](https://user-images.githubusercontent.com/55492290/71544935-f38fc780-29bf-11ea-8dc2-4a546bc97111.png)
 
 
