@@ -44,7 +44,7 @@ Types of Products
 | 11998795 | Sweater | Uniqlo | 175 | AZ Manufacturer |
 | 11795562 | Phone | Samsung | 2999 | QH Manufacturer |
 
-![image](https://user-images.githubusercontent.com/55492290/71544935-f38fc780-29bf-11ea-8dc2-4a546bc97111.png)
+![image](https://user-images.githubusercontent.com/55492290/71544996-c55eb780-29c0-11ea-861d-e4e5e4fe63d6.png)
 
 
 **Database 2:**
